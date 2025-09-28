@@ -1,8 +1,8 @@
-const UsedCard = ()=>{
+const UsedCard = ({name, email})=>{
     return(
       <>
-      <h1>Saccid</h1>
-      <p>saacid@gmail.com</p>
+      <h1>Hello: {name} Welecome back</h1>
+      <h2> your new email address is : {email}</h2>
       </>
     )
     }
