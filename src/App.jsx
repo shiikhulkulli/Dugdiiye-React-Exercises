@@ -1,5 +1,9 @@
 import { useState } from "react";
 import ToggleButton from "./toggleButton.jsx"
+import UserInfoUpdate from "./UserInfoUpdate.jsx"
+import AddArrayItem from "./AddArrayItem.jsx"
+import ShoppingCart from "./ShoppingCart.jsx";
+// import increasNumber from "./KordhiNumberka.jsx
 
 function App(){
   // const [isVisible, setIsVisible] = useState(false);
@@ -7,14 +11,16 @@ function App(){
   // const taggle =()=>{
   //   setIsVisible(!isVisible)
   // }
-
   // const [name, setName] = useState();
   // const handleChange = (event)=>{
   //   setName(event.target.value)
   // }
   return(
     <>
-    {<ToggleButton/>}
+    {/* {<ToggleButton/>} */}
+    {/* {<AddArrayItem/>} */}
+    {/* {<increasNumber/>} */}
+    {<ShoppingCart/>}
     {/* <UsedCard
     name={"Saacid"}
     email={"saaciduu@gmail.com"}
@@ -35,7 +41,12 @@ function App(){
    
     {/* <input type="text" placeholder="your name" value={name} onChange={handleChange}/>
     <p>Hello: {name}</p> */}
+
+
+
     </>
   )
 }
 export default App;
+
+
