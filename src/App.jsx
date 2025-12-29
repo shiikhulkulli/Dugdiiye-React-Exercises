@@ -3,6 +3,9 @@ import ToggleButton from "./toggleButton.jsx"
 import UserInfoUpdate from "./UserInfoUpdate.jsx"
 import AddArrayItem from "./AddArrayItem.jsx"
 import ShoppingCart from "./ShoppingCart.jsx";
+import ShoopingCaart from "./shoopinCaart.jsx"
+import TitleChange from "./exercise-6.jsx"
+import BedelTitleka from "./exercise-6.jsx"
 // import increasNumber from "./KordhiNumberka.jsx
 
 function App(){
@@ -20,7 +23,10 @@ function App(){
     {/* {<ToggleButton/>} */}
     {/* {<AddArrayItem/>} */}
     {/* {<increasNumber/>} */}
-    {<ShoppingCart/>}
+    {/* {<ShoppingCart/>} */}
+    {/* {<ShoopingCaart/>} */}
+    {/* {<TitleChange/>} */}
+    {<BedelTitleka/>}
     {/* <UsedCard
     name={"Saacid"}
     email={"saaciduu@gmail.com"}
