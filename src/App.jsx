@@ -7,6 +7,9 @@ import ShoopingCaart from "./shoopinCaart.jsx"
 import TitleChange from "./exercise-6.jsx"
 import BedelTitleka from "./exercise-6.jsx"
 import CabirkaShaashada from "./exercises-7.jsx"
+import StopWatch from "./StopWatch.jsx"
+import CountDown from "./exercise-8.jsx"
+
 
 // import increasNumber from "./KordhiNumberka.jsx
 
@@ -29,8 +32,10 @@ function App(){
     {/* {<ShoopingCaart/>} */}
     {/* {<TitleChange/>} */}
     {/* {<BedelTitleka/>} */}
-    {<CabirkaShaashada/>}
+    {/* {<CabirkaShaashada/>} */}
     {/* {<DhaqaaqaMuuska/>} */}
+    {/* {<StopWatch/>} */}
+    {<CountDown/>}
     {/* <UsedCard
     name={"Saacid"}
     email={"saaciduu@gmail.com"}
