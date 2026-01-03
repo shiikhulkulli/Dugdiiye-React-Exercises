@@ -6,6 +6,8 @@ import ShoppingCart from "./ShoppingCart.jsx";
 import ShoopingCaart from "./shoopinCaart.jsx"
 import TitleChange from "./exercise-6.jsx"
 import BedelTitleka from "./exercise-6.jsx"
+import CabirkaShaashada from "./exercises-7.jsx"
+
 // import increasNumber from "./KordhiNumberka.jsx
 
 function App(){
@@ -26,7 +28,9 @@ function App(){
     {/* {<ShoppingCart/>} */}
     {/* {<ShoopingCaart/>} */}
     {/* {<TitleChange/>} */}
-    {<BedelTitleka/>}
+    {/* {<BedelTitleka/>} */}
+    {<CabirkaShaashada/>}
+    {/* {<DhaqaaqaMuuska/>} */}
     {/* <UsedCard
     name={"Saacid"}
     email={"saaciduu@gmail.com"}

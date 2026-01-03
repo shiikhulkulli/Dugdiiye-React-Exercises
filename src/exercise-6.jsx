@@ -10,6 +10,7 @@ const BedelTitleka = ()=>{
             document.title= `${salaan}, ${magac}`
         }
     }, [magac, salaan])
+   
 
     return(
         <div>
